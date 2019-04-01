@@ -1,5 +1,25 @@
 # Deadline
 
+## Usage
+
+Using **Deadline** is simple. Once you've installed it in your repository you will need to setup your `.github/setup.yml` file and **Deadline** will do the rest.
+
+## Configuring for your project
+
+There are a couple of configuration options that you will need to setup depending on what you want.
+
+```yml
+
+-
+  label: development
+  time: Friday at 2pm
+  comment: You've missed the deadline
+-
+  label: version
+  time: Thursday at 2pm
+  comment: release is done
+```
+
 ## Setup
 
 ```sh

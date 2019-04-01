@@ -1,7 +1,7 @@
 {
-  "name": "Auto-Reminder",
+  "name": "Deadline",
   "version": "1.0.0",
-  "description": "Auto creates a comment with a deadline on a pull request.",
+  "description": "Deadline comments on a specifically labeled pull request after a deadline was passed with a any desired comment.",
   "author": "Irvin Jimenez-Solis &lt;irvin.jimenez-solis2@cerner.com&gt; (https://github.cerner.com/ij057650)",
   "license": "ISC",
   "repository": "https://github.cerner.com/IJ057650/github-app.git",
